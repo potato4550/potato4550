@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./space-banner.jpg" width="100%" alt="NASA Hubble image of the Carina Nebula" />
+  <img src="./space-banner.jpg.jpg" width="100%" alt="NASA Hubble image of the Carina Nebula" />
 </div>
 
 <h1 align="center">Hey, I'm Alan 👋</h1>
