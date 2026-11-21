@@ -1,4 +1,4 @@
-<img src="assets/Banner.jpg" alt="Banner" width="100%" />
+<img src="Banner.jpg" alt="Banner" width="100%" />
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Currently, I'm focusing my energy on an **AI-enabled exoplanet detection pipelin
 
 </td>
 <td width="25%" align="center">
-  <img src="assets/saturn.jpg" alt="Saturn" width="100%" />
+  <img src="saturn.jpg" alt="Saturn" width="100%" />
 </td>
 </tr>
 </table>
