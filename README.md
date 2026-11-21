@@ -1,9 +1,9 @@
-<img src="Banner.jpg" alt="Banner" width="100%" />
+<img src="Banner.png" alt="Banner" width="100%" />
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alan-lobo-3b0a21375"><img src="https://img.shields.io/badge/LINKEDIN-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/GMAIL-181717?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/potato4550"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -26,7 +26,7 @@ Currently, I'm focusing my energy on an **AI-enabled exoplanet detection pipelin
 
 </td>
 <td width="25%" align="center">
-  <img src="saturn.jpg" alt="Saturn" width="100%" />
+  <img src="satrun.png" alt="Saturn" width="100%" />
 </td>
 </tr>
 </table>
@@ -80,5 +80,5 @@ Add a short description here.
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=potato4550&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=potato4550&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
