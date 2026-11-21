@@ -1,118 +1,87 @@
+<!-- STYLE 1: centered, section-by-section profile (inspired by the first screenshot) -->
+<!-- Put your banner image at assets/banner.png and your side image at assets/about.png in your profile repo -->
+
 <div align="center">
-  <img src="./space-banner.jpg.jpg" width="100%" alt="NASA Hubble image of the Carina Nebula" />
+  <img src="assets/banner.png" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">Hey, I'm Alan 👋</h1>
+<h1 align="center">Hi 👋, I'm Alan Rohan Lobo</h1>
 
-<h3 align="center">
-  CSE Student | AI/ML Developer | Space Enthusiast 🚀
-</h3>
+<div align="center">
 
-<p align="center">
-  Exploring the intersection of Artificial Intelligence, Mathematics, and Aerospace.
-  <br />
-  Building projects, learning new technologies, and turning ideas into reality.
-</p>
+### Space Tech & AI/ML Engineer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alan-lobo-3b0a21375/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-</p>
+`Lobo · Reaching for orbit, one pipeline at a time`
+
+Building intelligent systems for astronomy and space technology, with clean engineering behind them.
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science Engineering student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🚀 Passionate about space exploration and aerospace technology
-- 📊 Enjoy solving mathematical and computational problems
-- 🔬 Building projects that combine AI, science, and engineering
-- 🌱 Always learning and exploring new technologies
+<table>
+<tr>
+<td width="62%" valign="top">
 
----
+**Alan (Lobo)** here, a postgraduate engineering student at **St Joseph Engineering College**, focused on **space technology**, **AI/ML applications in astronomy**, and **engineering systems**.
 
-## 🛠️ Technologies & Tools
+I enjoy turning real data from the sky into working tools: detection pipelines, orbital visualisations and practical software.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode" alt="Technologies and tools" />
-</p>
+Currently working on:
+- 🪐 **AI-enabled exoplanet detection pipeline** (ISRO BAH 2026, team *Orbital Pioneers*)
+- 🛰️ **Orbit crowding globe** visualising satellites and debris
+- 🔐 **RE-DACT**, a redaction / anonymisation tool
 
-**Areas of Interest**
+My goal is simple: build reliable systems, learn constantly, and contribute to the space tech ecosystem.
 
-- Artificial Intelligence and Machine Learning
-- Data Science and Bioinformatics
-- Deep Learning and Computer Vision
-- Space Science and Aerospace Engineering
-- Scientific Computing and Simulation
-
----
-
-## 🚀 Featured Projects
-
-### 🌌 AI-Based Exoplanet Detection
-
-Exploring machine learning techniques to identify potential exoplanets from noisy astronomical light-curve data.
-
-**Focus:** Time-series analysis, transit detection, and candidate classification.
-
-### 🧬 Parkinson's Disease Analysis
-
-Developing a project to analyze Parkinson's disease using biomedical data and machine learning techniques.
-
-**Focus:** MRI data exploration, data analysis, and potential disease classification.
-
-### 🛰️ Aerospace Simulation Projects
-
-Exploring computational methods and simulations for aerospace systems.
-
-**Focus:** Orbital mechanics, structural stability, and sensitivity analysis.
+</td>
+<td width="38%" align="center">
+  <img src="assets/about.png" alt="About" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 🤝 Connect
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=loboalan019-hub&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=loboalan019-hub&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most used programming languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=loboalan019-hub&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
+<a href="https://www.linkedin.com/in/alan-lobo-3b0a21375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
-## 🎯 Current Goals
+## 💻 Tech Stack
 
-- Strengthen my programming and problem-solving skills
-- Build practical AI/ML projects
-- Explore research opportunities in space science
-- Contribute to open-source projects
-- Develop projects that combine computer science with scientific research
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,cpp,c,matlab,git,github,vscode,docker,linux,arduino&perline=12" alt="Tech stack" />
+
+</div>
 
 ---
 
-## 🌠 My Motto
+## 📊 GitHub Stats
 
-<p align="center">
-  <b>Build • Learn • Experiment • Repeat</b>
-  <br />
-  <i>Curiosity drives innovation.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" alt="Activity graph" width="100%" />
+
+</div>
