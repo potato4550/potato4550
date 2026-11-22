@@ -18,7 +18,7 @@
 <tr>
 <td width="75%" valign="top">
 
-**Space Tech & AI/ML Engineer** (Student, St Joseph Engineering College)
+**Space Tech & AI/ML Enthusiast** (Student, St Joseph Engineering College)
 
 I'm deeply passionate about applying machine learning to astronomy and building engineering systems that handle real space data.
 
