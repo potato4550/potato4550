@@ -73,7 +73,11 @@ Add a short description here.
 </td>
 </tr>
 </table>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
+### 🔥 Contributions
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
+
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,cpp,c,matlab,git,github,vscode,docker,linux,arduino" alt="Tech stack" />
